@@ -117,7 +117,7 @@ GameObject:
   - component: {fileID: 2565219998855359457}
   - component: {fileID: 6010234954596787356}
   m_Layer: 0
-  m_Name: Load Room
+  m_Name: Load Room Chaleroi Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
